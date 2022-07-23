@@ -7,6 +7,6 @@
 - 📫 How to reach me: priyankamarandi0303@gmail.com...
 - 😉 I love to code in language: JAVA and C  
 
-Languages and Tools:
-c cplusplus css3 html5 java kotlin mysql python netbeans android
+https://www.cprogramming.com/
+
 
